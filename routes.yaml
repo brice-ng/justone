@@ -1,0 +1,12 @@
+home:
+  path: /index
+  methods: ['GET']
+
+
+
+
+
+autre:
+  path: /{suite}
+  requirements:
+    url: '[a-z]*'
