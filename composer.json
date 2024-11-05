@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/new_projet-cours",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Brice",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "symfony/routing": "*",
+    "symfony/config": "*",
+    "symfony/yaml": "*"
+  }
+}
